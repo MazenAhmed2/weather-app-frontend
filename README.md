@@ -13,7 +13,7 @@ These steps will get the project up and running locally.
    ```bash
    git clone https://github.com/MazenAhmed2/weather-app-frontend.git
    cd weather-app-frontend/frontend
-````
+   ```
 
 2. **Install dependencies:**
 
